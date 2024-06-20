@@ -1,0 +1,8 @@
+com/example/stashclient/model/DataItem.class
+com/example/stashclient/StashClientApplication.class
+com/example/stashclient/repository/DataItemRepository.class
+com/example/stashclient/model/StashDataItem.class
+com/example/stashclient/WebController.class
+com/example/stashclient/service/DataItemService.class
+com/example/stashclient/WebConfig.class
+com/example/stashclient/controller/DataItemController.class

@@ -1,0 +1,336 @@
+<component name="libraryTable">
+  <library name="springframework">
+    <ANNOTATIONS>
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/pulsar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/ws" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/restdocs" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/batch" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/amqp" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context-support" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/retry" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/cloud" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/vault" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jms" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webflux" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-websocket" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-messaging" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-test" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/plugin" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/hateoas" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-web" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jcl" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/session" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/security" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/integration" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/data" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-framework-bom" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/pulsar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/ws" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/restdocs" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/batch" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/amqp" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context-support" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/retry" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/cloud" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/vault" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jms" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webflux" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-websocket" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-messaging" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-test" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/plugin" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/hateoas" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-web" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jcl" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/session" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/security" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/integration" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/data" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-framework-bom" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/pulsar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/ws" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/restdocs" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/batch" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/amqp" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context-support" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/retry" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/cloud" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/vault" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jms" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webflux" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-websocket" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-messaging" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-test" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/plugin" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/hateoas" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-web" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jcl" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/session" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/security" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/integration" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/data" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-framework-bom" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/pulsar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/ws" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/restdocs" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/batch" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/amqp" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context-support" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/retry" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/cloud" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/vault" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jms" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webflux" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-websocket" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-messaging" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-test" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/plugin" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/hateoas" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-web" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jcl" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/session" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/security" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/integration" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/data" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-framework-bom" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/pulsar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/ws" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/restdocs" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/batch" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/amqp" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context-support" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/retry" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/cloud" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/vault" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jms" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webflux" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-websocket" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-messaging" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-test" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/plugin" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/hateoas" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-web" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jcl" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/session" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/security" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/integration" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/data" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-framework-bom" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/pulsar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/ws" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/restdocs" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/batch" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/amqp" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context-support" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/retry" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/cloud" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/vault" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jms" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webflux" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-websocket" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-messaging" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-test" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/plugin" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/hateoas" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-web" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jcl" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/session" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/security" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/integration" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/data" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-framework-bom" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/pulsar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/ws" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/restdocs" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/batch" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/amqp" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context-support" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/retry" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/cloud" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/vault" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jms" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webflux" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-websocket" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-messaging" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-test" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/plugin" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/hateoas" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-web" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jcl" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/session" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/security" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/integration" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/data" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-framework-bom" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/amqp" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/batch" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/boot" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/cloud" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/data" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/hateoas" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/integration" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/plugin" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/pulsar" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/restdocs" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/retry" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/security" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/session" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context-support" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-framework-bom" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jcl" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jms" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-messaging" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-test" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-web" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webflux" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-websocket" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/vault" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/ws" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/amqp" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/batch" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/boot" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/cloud" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/data" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/hateoas" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/integration" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/plugin" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/pulsar" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/restdocs" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/retry" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/security" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/session" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context-support" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-framework-bom" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jcl" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jms" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-messaging" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-test" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-web" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webflux" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-websocket" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/vault" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/ws" recursive="false" type="SOURCES" />
+  </library>
+</component>

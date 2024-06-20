@@ -1,0 +1,9 @@
+2024-06-20 11:38:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table data_item (id bigint not null, [*]key varchar(255), value varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table data_item (id bigint not null, key varchar(255), value varchar(255), primary key (id)) [42001-212]
+2024-06-20 11:38:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table data_item (id bigint not null, [*]key varchar(255), value varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table data_item (id bigint not null, key varchar(255), value varchar(255), primary key (id)) [42001-212]
+2024-06-20 12:00:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table data_item (id bigint not null, [*]key varchar(255), value varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table data_item (id bigint not null, key varchar(255), value varchar(255), primary key (id)) [42001-212]

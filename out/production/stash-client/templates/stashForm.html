@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Stash Form</title>
+</head>
+<body>
+<form action="/" method="get">
+    <label for="ssn">Enter SSN:</label>
+    <input type="text" id="ssn" name="ssn" th:value="${dataItem.ssn}">
+    <input type="submit" value="Submit">
+</form>
+
+<div th:if="${dataItem != null}">
+    <p>SSN: <span th:text="${dataItem.ssn}"></span></p>
+    <div>
+        <label for="address">Address:</label>
+        <input type="text" id="address" name="address" th:value="${dataItem.address}" th:disabled="${editableField != 'address'}" />
+    </div>
+    <div>
+        <label for="phoneNumber">Phone Number:</label>
+        <input type="text" id="phoneNumber" name="phoneNumber" th:value="${dataItem.phoneNumber}" th:disabled="${editableField != 'phoneNumber'}" />
+    </div>
+    <div>
+        <label for="email">Email:</label>
+        <input type="text" id="email" name="email" th:value="${dataItem.email}" th:disabled="${editableField != 'email'}" />
+    </div>
+</div>
+</body>
+</html>
